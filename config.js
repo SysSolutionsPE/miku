@@ -4,15 +4,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-]
-global.suittag =['5212412477467']
-global.mods = []
-global.prems = ['5212412474767'], 
-global.prems = ['5212412377467'],
+  ['51966099729', 'SysSolutions', true],
+  ]
+global.suittag =['51966099729']
+global.mods = ['51966099729']
+global.prems = ['51966099729'], 
+global.prems = ['51966099729'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -63,21 +60,21 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 '
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = 'SysSolutions'
+global.author = '©SysSolutions﹏✍'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ﹏✍'
+global.gt = 'SysSolutions﹏✍'
 global.hadesbot = gt
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = 'https://youtu.be/@SysSolutionsPeru'
 global.youtube = yt
-global.ig = 'https://www.instagram'
+global.ig = 'https://www.instagram/SysSolutions.Peru'
 global.hadesig = ig
-global.md = 'https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git'
+global.md = 'https://github.com/SysSolutionsPE/miku.git'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/KlAYxPxLAkSGOyZxeXXZkt'
+global.nn = 'https://chat.whatsapp.com/FugA0hPt8Jm1fkm5LFrzAT'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/FugA0hPt8Jm1fkm5LFrzAT'
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
@@ -96,8 +93,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 ✍'
-global.igfg = '⫷᭄𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰 ✍'
+global.wm = '©SysSolutions﹏✍\nPerú✍'
+global.igfg = 'SysSolutions✍'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./views/grupo.jpg')
